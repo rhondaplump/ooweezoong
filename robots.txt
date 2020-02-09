@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://caizeidahb.practicingprogrammer.com/sitemap.xml
